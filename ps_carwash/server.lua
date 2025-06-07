@@ -194,7 +194,7 @@ function carwash_webhook(text)
 				["name"] = 'Phoenix Studios',
 			},
 			
-			['url'] = 'https://github.com/xrisingphoenix/ps_orders',
+			['url'] = 'https://github.com/xrisingphoenix/ps_carwash',
 			["title"] = 'Carwash Logs',
 	
 			["description"] = text,
